@@ -35,7 +35,7 @@ Analizar tiempos de gestión, cumplimiento de SLA y desempeño de contratistas.
 
 ## 📸 Dashboard
 
-![Vista gerencia](./Gerencia.png)
-![Vista de detalles](./Detalles.png)
+![Vista gerencia](./Gerencia.PNG)
+![Vista de detalles](./Detalles.PNG)
 
 
